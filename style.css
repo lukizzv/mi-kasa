@@ -1,0 +1,102 @@
+.menu{
+    list-style: none;
+    text-align: right;
+    font-size: 13px;
+  
+}
+
+#arroz{
+    width: 40px;
+    height: 40px;
+    border-radius: 98px;
+}
+body{
+    background: rgb(255, 255, 255);
+}
+
+.lili{
+    display: inline;
+    padding-left: 10px;
+    padding-right: 10px;
+    cursor: pointer;
+}
+
+#seccion{
+    margin-top: 218px;
+}
+.lili:hover{
+text-decoration: underline;
+}
+
+.boton{
+    border:none;
+    background: none;
+}
+.barra{
+    border-radius: 10px;
+    border: none;
+    background: none;
+    width: 450px;
+}
+.losbotones{
+    width: 580px;
+    height: 40px;
+    border: 2px  groove rgb(196, 196, 196);
+    padding: 15px;
+    margin: 30px;
+    border-radius: 25px;
+}
+
+.botongugul{
+    border: none;
+
+    background-color: rgb(245, 247, 248) ;
+    padding: 8px;
+    padding-left: 20px;
+    padding-right: 20px;
+    cursor: pointer progress;
+}
+
+#etiketa{
+    font-size: 13px;
+}
+
+#etiketa2{
+    font-size: 13px;
+    cursor: pointer;
+    color: rgb(3, 0, 187);
+}
+
+.div543{
+    position: fixed;
+    margin-top: 28%;
+    padding-left: 20px;
+}
+
+#mexico{
+    font-size: 15px;
+
+}
+
+.keso{
+    background-color:rgb(231, 231, 231);
+    position: fixed;
+    padding-left: 70px;
+    
+}
+
+.lolo:hover{
+    text-decoration: underline;
+}
+
+.lolo{
+    margin-right: 10px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.dudu{
+    background-color: rgb(148, 148, 148);
+margin-top: 300px;
+    height: 1px;
+}
